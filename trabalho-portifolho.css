@@ -1,0 +1,40 @@
+.menu {
+	
+	background-color: white;
+}
+#Pesquisa {
+	background-color: #C4C4C4;
+	line-height: 50px;
+}
+
+.margem {
+	height: 20px;
+}
+#conteudo {
+	height: 2000px;
+	background-color: #C4C4C4;
+}
+#rodape {
+	background-color: black;
+	height: 50px;
+}
+#margem {
+	background-color: #662483;
+	height: 10px;
+}
+.margem2 { 
+background-color: grey;
+height: 250px; }
+.imagem {
+	height: 200px;
+	width:  250px;
+	margin: 11px;
+}
+.icon {
+	height: 50px;
+	width: 50px;
+	position: left;
+}
+.titulo a:houver {
+	background-color: red;
+}
